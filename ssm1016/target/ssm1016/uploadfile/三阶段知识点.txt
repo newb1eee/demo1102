@@ -1,0 +1,5 @@
+1.SSM中判断跳转页面是否需要走Controller——页面是否需要数据，需要就走
+
+2.top.location.href 跳出框架
+
+3.“/”的使用，/user/username 
