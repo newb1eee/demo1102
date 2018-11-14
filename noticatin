@@ -1,0 +1,3 @@
+spring boot
+delete the  "    <packaging>pom</packaging>"  in pom.xml 
+can be running
